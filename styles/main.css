@@ -1,7 +1,7 @@
 body {
   background-color: #fff;
-  font-family: 'Assistant', sans-serif;
-  color: #071C4D;
+  font-family: "Assistant", sans-serif;
+  color: #071c4d;
 }
 
 .navbar-brand img {
@@ -17,16 +17,16 @@ body {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: #071C4D;
+  color: #071c4d;
 }
 
 .navbar-light .navbar-nav .nav-link.active {
   font-weight: bold;
-  color: #071C4D !important;
+  color: #071c4d !important;
 }
 
 .btn-login {
-  background-color: #071C4D;
+  background-color: #071c4d;
   color: #fff;
 }
 
@@ -47,12 +47,12 @@ header p {
 }
 
 header h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   font-weight: bold;
 }
 
 header .btn-get-started {
-  background-color: #FF9E53;
+  background-color: #ff9e53;
   color: #fff;
 }
 
@@ -97,7 +97,7 @@ header .btn-get-started:hover {
 }
 
 .section-popular .section-popular-heading h2 {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   font-weight: bold;
 }
 
@@ -120,12 +120,20 @@ header .btn-get-started:hover {
   color: #fff;
 }
 
-.section-popular-content .section-popular-travel .card-travel .travel-button .btn-travel-details {
-  background-color: #FF9E53;
+.section-popular-content
+  .section-popular-travel
+  .card-travel
+  .travel-button
+  .btn-travel-details {
+  background-color: #ff9e53;
   color: #fff;
 }
 
-.section-popular-content .section-popular-travel .card-travel .travel-button .btn-travel-details:hover {
+.section-popular-content
+  .section-popular-travel
+  .card-travel
+  .travel-button
+  .btn-travel-details:hover {
   color: #fff;
 }
 
@@ -137,7 +145,7 @@ header .btn-get-started:hover {
 }
 
 .section-networks h2 {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   font-weight: bold;
 }
 
@@ -146,14 +154,20 @@ header .btn-get-started:hover {
 }
 
 .section-testimonials-heading {
-  background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f7f9ff));
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    from(#fff),
+    to(#f7f9ff)
+  );
   background: linear-gradient(#fff 0%, #f7f9ff 100%);
   padding-top: 50px;
   min-height: 506px;
 }
 
 .section-testimonials-heading h2 {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   font-weight: bold;
 }
 
@@ -195,7 +209,7 @@ header .btn-get-started:hover {
 }
 
 .section-testimonials-content .btn-get-started {
-  background-color: #FF9E53;
+  background-color: #ff9e53;
   color: #fff;
 }
 
@@ -204,12 +218,12 @@ header .btn-get-started:hover {
 }
 
 .section-testimonials-content .btn-need-help {
-  background-color: #F2F2F2;
-  color: #C3C3C3;
+  background-color: #f2f2f2;
+  color: #c3c3c3;
 }
 
 .section-testimonials-content .btn-need-help:hover {
-  color: #C3C3C3;
+  color: #c3c3c3;
 }
 
 .section-footer a {
